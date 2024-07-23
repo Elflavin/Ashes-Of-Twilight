@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/TestScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Tutorial/GameSpawn.unity
+    guid: dba4a5cdd1bda39469527590c1ecdc29
+  - enabled: 1
+    path: Assets/Scenes/Tutorial/Tut_R1.unity
+    guid: ebbd33b1da829da4ca91d1e9a21f82c5
+  - enabled: 1
+    path: Assets/Scenes/Tutorial/Tut_R2.unity
+    guid: 3f5ce145a0bbca0459de8d9e2a99c75b
+  - enabled: 1
+    path: Assets/Scenes/Tutorial/Tut_R3.unity
+    guid: fa43f91efc9a4674f95ba84489ad6477
+  - enabled: 1
+    path: Assets/Scenes/Village/NPC Area.unity
+    guid: 6e41dc76a90caa8449100aaa978ff8de
+  - enabled: 1
+    path: Assets/Scenes/MainArea/Entrance.unity
+    guid: 72118a27895725744b2890397b73d7db
+  - enabled: 1
+    path: Assets/Scenes/MainArea/FallRoom.unity
+    guid: efb5d93d7b2e93345ba36077ef7340cf
+  - enabled: 1
+    path: Assets/Scenes/MainArea/Rest Room.unity
+    guid: a726ba4784966c84eb04977e1fbe1838
+  - enabled: 1
+    path: Assets/Scenes/MainArea/Room 1.unity
+    guid: 33c3b6a131e35464d95d031888ee00a5
+  - enabled: 1
+    path: Assets/Scenes/MainArea/Room 2.unity
+    guid: cadae2b0d9e53e7469a51f422f71875e
+  - enabled: 1
+    path: Assets/Scenes/MainArea/Room 3.unity
+    guid: 78161f459b82da148bcd1cc7b24ac491
+  - enabled: 1
+    path: Assets/Scenes/MainArea/Room 4.unity
+    guid: dbb2127957dc3c345bed651e59b086a9
+  - enabled: 1
+    path: Assets/Scenes/MainArea/Room 5.unity
+    guid: 65fb99bce1dc1e94482b057119bbf9a3
+  - enabled: 1
+    path: Assets/Scenes/MainArea/Room 6.unity
+    guid: 35fc2b800880c1b45bff0855a4ada9f3
+  - enabled: 1
+    path: Assets/Scenes/MainArea/BossRoom.unity
+    guid: d31b6dda140c53143b2448ae8584f803
+  - enabled: 1
+    path: Assets/Scenes/MainArea/Fast Travel Room.unity
+    guid: 6550ef49b763fe34f9e1992f72a05590
+  - enabled: 1
+    path: Assets/Scenes/MainArea/Room 7.unity
+    guid: 866b30df3ed96464a9ec8d983faff7be
+  - enabled: 1
+    path: Assets/Scenes/MainArea/Room 8.unity
+    guid: be36ae51a0245bf47a69a16408634da1
+  - enabled: 1
+    path: Assets/Scenes/MainArea/Room 9.unity
+    guid: 9b6e15c4fecb76f409297487f940e37e
+  - enabled: 1
+    path: Assets/Scenes/MainArea/Secret Room.unity
+    guid: 35b2cd92bb2ee4a4696248ba0008ca7f
+  - enabled: 1
+    path: Assets/Scenes/MainArea/FinalBoss/BossCorridor.unity
+    guid: 86500e505fb90fc439f3819c182b479b
+  - enabled: 1
+    path: Assets/Scenes/MainArea/FinalBoss/FinalBoss.unity
+    guid: f4faf9636b2df9340928397e4c7ca1a7
+  m_configObjects: {}
